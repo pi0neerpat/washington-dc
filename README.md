@@ -4,7 +4,7 @@ Welcome to the Washington, DC chapter of [ProtoSchool](https://proto.school)!
 
 The Protoschool Washington, DC chapter is a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!
 
-Stay tuned for info on our 1st event on Feb 21st, 2019! 
+[Help us plan our 1st event on Feb 21st, 2019!](https://github.com/ProtoSchool/washington-dc/issues/1)
 
 ## Organizers
 
